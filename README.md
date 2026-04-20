@@ -16,8 +16,8 @@ CI/CD Pipelines | AWS Migration | Automation
 ✔ Automated manual tasks saving hours of effort 
 
 ## 🔗 Links 
-🔗 LinkedIn: https://www.linkedin.com/in/asnul-ansari-68897863 
-🔗 GitHub: https://github.com/asnulansari785  
+🔗 [LinkedIn](https://www.linkedin.com/in/asnul-ansari-68897863)  
+🔗 [GitHub](https://github.com/asnulansari785)
 
 ## 📫 Contact  
 Email: asnul.ansari@yahoo.com  
