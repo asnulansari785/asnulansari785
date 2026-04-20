@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Asnul Ansari  
+DevOps & Infrastructure Lead | AWS | CI/CD | Automation | Linux  
 
-<!--
-**asnulansari785/asnulansari785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me  
+DevOps Lead with 15+ years experience in CI/CD, AWS, and automation.  
 
-Here are some ideas to get you started:
+## 🛠 Skills  
+Jenkins | GitLab | AWS | Linux | Ansible | Shell  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+CI/CD Pipelines | AWS Migration | Automation  
+
+## 📊 Impact  
+✔ 30–40% faster deployments  
+✔ Zero downtime migration  
+✔ 20+ incidents/month  
+
+## 📫 Contact  
+Email: asnul.ansari@yahoo.com  
+GitHub: github.com/asnulansari785  
