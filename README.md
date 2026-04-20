@@ -1,5 +1,5 @@
 # 👨‍💻 Asnul Ansari  
-DevOps & Infrastructure Lead | AWS | CI/CD | Automation | Linux  
+DevOps & Infrastructure Lead | AWS | CI/CD | Automation | Linux | 15+ Years Experience
 
 ## 👋 About Me  
 DevOps & Infrastructure Lead with 15+ years of experience in building scalable systems, automating deployments, and managing production environments.
@@ -16,7 +16,7 @@ CI/CD Pipelines | AWS Migration | Automation
 ✔ Automated manual tasks saving hours of effort 
 
 ## 🔗 Links 
-🔗 LinkedIn: (yahan dalna)  
+🔗 LinkedIn: https://www.linkedin.com/in/asnul-ansari-68897863 
 🔗 GitHub: https://github.com/asnulansari785  
 
 ## 📫 Contact  
