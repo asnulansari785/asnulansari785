@@ -2,7 +2,7 @@
 DevOps & Infrastructure Lead | AWS | CI/CD | Automation | Linux  
 
 ## 👋 About Me  
-DevOps Lead with 15+ years experience in CI/CD, AWS, and automation.  
+DevOps & Infrastructure Lead with 15+ years of experience in building scalable systems, automating deployments, and managing production environments.
 
 ## 🛠 Skills  
 Jenkins | GitLab | AWS | Linux | Ansible | Shell  
@@ -11,9 +11,13 @@ Jenkins | GitLab | AWS | Linux | Ansible | Shell
 CI/CD Pipelines | AWS Migration | Automation  
 
 ## 📊 Impact  
-✔ 30–40% faster deployments  
-✔ Zero downtime migration  
-✔ 20+ incidents/month  
+✔ Reduced deployment time by 30–40%  
+✔ Led zero downtime AWS migration  
+✔ Automated manual tasks saving hours of effort 
+
+## 🔗 Links 
+🔗 LinkedIn: (yahan dalna)  
+🔗 GitHub: https://github.com/asnulansari785  
 
 ## 📫 Contact  
 Email: asnul.ansari@yahoo.com  
