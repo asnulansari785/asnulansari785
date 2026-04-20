@@ -20,5 +20,4 @@ CI/CD Pipelines | AWS Migration | Automation
 🔗 [GitHub](https://github.com/asnulansari785)
 
 ## 📫 Contact  
-Email: asnul.ansari@yahoo.com  
-GitHub: github.com/asnulansari785  
+Email: asnul.ansari@yahoo.com
