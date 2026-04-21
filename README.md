@@ -35,4 +35,4 @@ Jenkins | GitLab | AWS | Linux | Ansible | Shell
 
   ## 📬 Contact
 📧 asnul.ansari@yahoo.com  
-🔗 LinkedIn: (linkedin.com/in/asnul-ansari-68897863)
+🔗 LinkedIn: linkedin.com/in/asnul-ansari-68897863
