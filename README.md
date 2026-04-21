@@ -32,7 +32,9 @@ Jenkins | GitLab | AWS | Linux | Ansible | Shell
 - CI/CD Pipeline Implementation – Jenkins + GitLab
 - AWS Migration – On-prem to cloud
 - Automation – Ansible-based deployment
+  
+---
 
-  ## 📬 Contact
+## 📬 Contact
 📧 asnul.ansari@yahoo.com  
-🔗 LinkedIn: linkedin.com/in/asnul-ansari-68897863
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/asnul-ansari-68897863)
