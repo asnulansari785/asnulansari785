@@ -9,7 +9,18 @@ Senior DevOps & Infrastructure Leader with 15+ years of experience in AWS, CI/CD
 ---
 
 ## 🛠 Skills
-Jenkins | GitLab | AWS | Linux | Ansible | Shell
+
+### Core Competencies
+Cloud Infrastructure (AWS) | CI/CD Pipelines | Infrastructure Automation  
+Monitoring & Observability | DevOps Practices | Production Support  
+
+### Tech Stack
+CI/CD: Jenkins, GitLab CI/CD, Nexus  
+Cloud: AWS (EC2, S3, IAM, VPC)  
+Automation: Ansible, Shell Scripting  
+Containers: Docker, Kubernetes (Basic)  
+Monitoring: Prometheus, Grafana  
+OS: Linux, Unix  
 
 ---
 
